@@ -10,3 +10,5 @@
   To train this CNN to recognise every class from our database, classes containing less than 10 images were first fused into a single “other” class. Then, the 84 remaining classes were trained to be recognised with an overall accuracy of about 90 %. The whole procedure, including the image acquisition, stacking, processing, segmentation and recognition, is entirely automated via a LabVIEW interface, and takes approximately 1 hour per sample (About 500 in average are recognised per sample). Census data count and classified radiolarian images are then automatically exported and saved. This new workflow will now be used on two Neogene to Recent sedimentary records from the IODP expedition 363 (Core U1483 and Core U1488), recovered from the West Pacific Warm Pool.
 
 ## Downloadable files:
+
+soon
